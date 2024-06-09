@@ -1,2 +1,2 @@
 # Computer-Vision
-Computer Vision did loyihalar
+Computer Vision oid loyihalar
