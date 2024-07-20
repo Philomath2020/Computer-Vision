@@ -44,4 +44,4 @@ Computer Vision oid loyihalar
 * Specify the license used for the project.
 
 ## Contact
-* Your contact information (email, GitHub profile).
+* Your contact information (email, GitHub profile)...
