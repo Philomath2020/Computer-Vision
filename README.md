@@ -17,13 +17,13 @@ cnn_learner(dls, resnet34, metrics=accuracy)
 
 Result rasm:
 
-<div align="center">
+<div align="left">
   <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m2.png"  />
 </div>
 
 Baholash : onfusion matrix:
 
-<div align="center">
+<div align="left">
   <img height="400" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m3.png"  />
 </div>
 
