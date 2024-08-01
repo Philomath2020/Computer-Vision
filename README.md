@@ -1,47 +1,34 @@
 # Computer-Vision
 Computer Vision oid loyihalar
 
-# Computer Vision Project
+Fruits:
+Mevalarni taniydigan dastur:
 
-**[Brief description of the project]**
+Dataset: OIDv4_ToolKit
 
-## Overview
-* Brief project description and its goal.
-* Target audience (e.g., researchers, developers, enthusiasts).
-* Key features and functionalities.
+Rasm:
+<div align="left">
+  <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m1.png"  />
+</div>
 
-## Getting Started
-### Prerequisites
-* Python (version recommendation)
-* Required libraries (e.g., OpenCV, NumPy, TensorFlow/PyTorch)
-* Hardware requirements (e.g., GPU)
+Model Train:
 
-### Installation
-* Instructions to install dependencies.
-* Environment setup (e.g., virtual environment)
+cnn_learner(dls, resnet34, metrics=accuracy)
 
-## Usage
-* Basic instructions on how to use the project.
-* Examples and code snippets.
-* Command-line interface (if applicable).
+Result rasm:
 
-## Models and Algorithms
-* Description of implemented models or algorithms.
-* Performance metrics and results (if available).
+<div align="center">
+  <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m2.png"  />
+</div>
 
-## Dataset
-* Description of the dataset used (if applicable).
-* Data preprocessing steps.
+Baholash : onfusion matrix:
 
-## Results
-* Visualizations, plots, or metrics demonstrating project outcomes.
+<div align="center">
+  <img height="400" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m3.png"  />
+</div>
 
-## Contributing
-* Guidelines for contributing to the project.
-* How to report issues or suggest improvements.
+Natijani tekshirish:
 
-## License
-* Specify the license used for the project.
-
-## Contact
-* Your contact information (email, GitHub profile)...
+<div align="center">
+  <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/4.png"  />
+</div>
