@@ -17,7 +17,7 @@ cnn_learner(dls, resnet34, metrics=accuracy)
 
 Result rasm:
 
-<div align="left">
+<div align="center">
   <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/m2.png"  />
 </div>
 
@@ -29,6 +29,6 @@ Baholash : onfusion matrix:
 
 Natijani tekshirish:
 
-<div align="center">
+<div align="left">
   <img height="300" src="https://github.com/Philomath2020/Computer-Vision/blob/main/pic/4.png"  />
 </div>
