@@ -1,5 +1,5 @@
 # Computer-Vision
-Computer Vision oid loyihalar
+Computer Vision oid loyihalar.
 
 Fruits:
 Mevalarni taniydigan dastur:
